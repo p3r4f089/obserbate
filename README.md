@@ -1,0 +1,2 @@
+# Obserbate
+Es una plataforma de visibilización, formación e intervención y articulación de la ciudadanía en la lucha contra la corrupción en la gestión ambiental, generando espacios digitales, interactivos, audiovisuales y presenciales que emplacen a las autoridades legislativas, judiciales y del gobierno nacional, regional y local, y a los organismos de control, para indagarlos sobre sus acciones y compromisos en su lucha a este flagelo social, con énfasis en la inversión del gasto social prioritario en salud, educación, agua y saneamiento.
