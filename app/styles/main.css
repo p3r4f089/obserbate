@@ -8,6 +8,23 @@
 body {
   padding: 0;
 }
+p {
+  font-family: 'Noto Serif', serif;
+  font-size: 1.2em;
+}
+
+h1,h2,h3,h4{
+  font-family: 'Bevan', cursive;
+}
+h1{
+  font-size: 3em;
+}
+h2{
+  font-size: 2.5em;
+}
+h3{
+  font-size: 2em;
+}
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
